@@ -33,8 +33,8 @@ Import those two CSVs into Microsoft Excel or LibreOffice Calc using UTF-8 encod
 
 To include other evolutions such as:
 
-- [ ]Syntax
-- [ ]_etc._
+* Syntax
+* _etc._
 
 ## License
 
