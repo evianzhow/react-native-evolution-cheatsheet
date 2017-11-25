@@ -8,6 +8,8 @@ React Native is evolving in a such fast way that it’s quite common to see APIs
 
 Here comes this cheatsheet. The cheatsheet is a quick reference to the React Native Components and APIs availability, from the first open-sourced version to the latest. We hope this might help you get an overview about what you are going to work on.
 
+**PRs are welcome!**
+
 # [](#availability)Availability
 
 ## [](#components-availability)Components
@@ -3541,6 +3543,10 @@ Here comes this cheatsheet. The cheatsheet is a quick reference to the React Nat
 </table>
 
 # [](#syntax)Syntax
+
+_TODO_
+
+# [](#breaking-changes)Breaking Changes
 
 _TODO_
 
