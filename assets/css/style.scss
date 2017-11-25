@@ -28,3 +28,25 @@
   background:#C6EFCE;
   mso-pattern:black none;
 }
+
+.row-title-td {
+  position: absolute;
+  width: 262px;
+  height: 44px;
+  background: #fff;
+}
+
+.row-title-td + td {
+  display: inline-block;
+  margin: 0 0 0 262px;
+  width: 68px;
+  height: 42px;
+}
+
+.row-title-td + td.version-td {
+  display: inline-block;
+  margin: 0 0 0 262px;
+  width: 68px;
+  height: 43px;
+  word-wrap: normal;
+}
