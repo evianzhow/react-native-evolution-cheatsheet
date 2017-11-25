@@ -2,6 +2,8 @@
 
 Browse for React Native Components and APIs availability from version to version, see the evolutions.
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ## Getting Started
 
 These tables are generated from the table of contents of the official [Getting Started](http://facebook.github.io/react-native/docs/getting-started.html), using a Ruby script. The website itself is using GitHub Pages, powered by [jekyll](https://jekyllrb.com).
